@@ -11,6 +11,7 @@
     <modules>
         <module>unit_3_all_operations</module>
         <module>unit_4_arrays_and_string</module>
+        <module>unit_5_oop</module>
     </modules>
 
     <properties>

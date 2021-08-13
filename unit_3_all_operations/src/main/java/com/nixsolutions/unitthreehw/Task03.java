@@ -6,6 +6,7 @@ public class Task03 {
 
     public void run() {
 
+        System.out.println("Реализован метод, который возвращает конец урока в школе. Метод работает с уроками от 1 до 10");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите интересующий Вас урок: ");
         int i = scanner.nextInt();

@@ -10,7 +10,8 @@ public class ReverseString {
         System.out.println(myReverse(s));
     }
 
-    public static String myReverse(String src) {
+    public static String myReverse(String src)
+    {
 
         String result = "";
         for (int i = 0; i < src.length(); i++) {
